@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![](https://komarev.com/ghpvc/?username=gnikita432)
 
 
 <!--
