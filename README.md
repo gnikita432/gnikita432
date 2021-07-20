@@ -1,15 +1,17 @@
 ### Hey👋, I am Nikita!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnikita432&show_icons=true&theme=radical)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gnikita432&count_private=true&theme=tokyonight&showicons=true)]()
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=gnikita432)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432&langs_count=5&theme=tokyonight)]()
 
 [![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnikita432&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=gnikita432)
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnikita432&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 
