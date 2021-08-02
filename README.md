@@ -12,7 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432)](https://github.com/anuraghazra/github-readme-stats)
  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnikita432)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnikita432&theme=dark)](https://git.io/streak-stats)
+
 
 
 <!--
