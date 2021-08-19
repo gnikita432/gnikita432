@@ -16,7 +16,7 @@
 <!-- <img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
 </a> -->
 </p> 
-
+<br>
 
 <!-- **gnikita432/gnikita432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,13 +32,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gnikita432&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432&langs_count=5&theme=tokyonight)]()
+ <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gnikita432&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gnikita432&theme=radical&show_icons=true" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432&theme=radical&show_icons=true&layout=compact">
+ 
+</div>
+ 
+ <br>
+ 
+<!--  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gnikita432&count_private=true&theme=tokyonight&showicons=true)]()
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432&langs_count=5&theme=tokyonight)]() -->
+  
 
 [![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnikita432&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://komarev.com/ghpvc/?username=gnikita432)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gnikita432" />
+</div>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnikita432&show_icons=true&theme=radical)
 
