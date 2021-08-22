@@ -80,6 +80,6 @@ Here are some ideas to get you started:
  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnikita432&theme=dark)](https://git.io/streak-stats)
 
-
+<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
 
 
