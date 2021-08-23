@@ -73,13 +73,15 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gnikita432" />
 </div>
+
+<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnikita432&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnikita432)](https://github.com/anuraghazra/github-readme-stats)
  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnikita432&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnikita432&theme=dark)](https://git.io/streak-stats) -->
 
-<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
+
 
 
