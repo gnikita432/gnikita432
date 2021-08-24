@@ -43,9 +43,9 @@
 <a href="mailto:gnikita432@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="">
-<!-- <img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
-</a> -->
+<a href="https://medium.com/@gnikita432">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 </p> 
 <br>
 
