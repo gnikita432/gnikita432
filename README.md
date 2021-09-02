@@ -15,7 +15,7 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="30" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
- </div>
+</div>
 <br>
 
 <h2 align="center">Github Stats</h2>
@@ -45,6 +45,9 @@
 </a>
 <a href="https://medium.com/@gnikita432">
 <img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+ <a href="https://twitter.com/gnikita432" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </p> 
 <br>
