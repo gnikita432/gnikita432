@@ -28,8 +28,8 @@
  
  <br>
 
-[![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnikita432&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnikita432&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Nikita's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gnikita432&bg_color=0d1117&color=fffff0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center">Let's Connect !! 🤝</h2> 
 
