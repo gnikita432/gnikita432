@@ -1,6 +1,72 @@
 <h2 align="center"> Hey👋, I am Nikita!</h2>
 <br>
 
+<!-- <h2 style="color: #333;">About Me</h2>
+
+<p style="color: #444;">Hi there! I'm a software engineer with a passion for coding and open-source. I have a Bachelor's degree in Computer Science and minors in the same field, which has provided me with a solid foundation in the theoretical and practical aspects of computer fundamentals.</p> 
+
+<p style="color: #444;">I have a year of experience in software engineering, including internships at Solana Labs and RMgX Technologies, where I have contributed to the development of point-of-sale applications and a social media platform, respectively. I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.</p>
+
+<p style="color: #444;">I am a life-long learner and am constantly seeking to improve my skills. I have taken various online courses and certifications to supplement my education, and I have successfully completed over 350 coding problems and earned multiple 5-star badges on platforms such as Hackerrank.</p>
+
+<p style="color: #444;">I am always open to collaboration and contributing to open-source projects. Feel free to connect with me and let's work on something great together!</p> -->
+
+
+<!-- <div align="center">
+  <h1 style="color: #16a085;"> Your Name </h1>
+  <p style="color: #34495e; font-size: 20px;"> Your Title / Designation </p>
+  <p style="color: #bdc3c7; font-size: 16px;"> A brief description about yourself </p>
+  <p style="color: #34495e;">
+    <a href="https://github.com/yourusername">
+      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/yourusername">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin"/>
+    </a>
+    <a href="https://yourwebsite.com">
+      <img alt="Website" src="https://img.shields.io/badge/-Website-ff69b4?style=flat"/>
+    </a>
+  </p>
+</div> -->
+<div align="center">
+<p align="center">
+  <b>
+    <span style="color: #0077B5">About</span><span style="color: #E44D26"> Me</span>
+  </b>
+  <br>
+  <span >
+    I'm a software engineer with a passion for coding and open-source.
+  </span>
+  <br>
+  <span>
+    I am a final year BE student.
+  </span>
+  <br>
+  <span >
+    I have a year of experience in software engineering, including internships at MLH Fellowship and RMgX Technologies.
+  </span>
+  <br>
+  <span >
+    I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
+  </span>
+  <br>
+  <span >
+    I am a life-long learner and am constantly seeking to improve my skills.
+  </span>
+  <br>
+  <span >
+    I am always open to collaboration and contributing to open-source projects.
+  </span>
+  <br>
+  <span>
+    Feel free to connect with me and let's work on something great together!
+  </span>
+  <br>
+</p>
+</div>
+
+<br>
+
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
