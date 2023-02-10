@@ -1,15 +1,23 @@
 <h2 align="center"> Hey👋, I am Nikita!</h2>
-<br>
+                  <h3 align="center">
+  Software Engineer Intern | Open-Source Enthusiast
+</h3>
 
-<!-- <h2 style="color: #333;">About Me</h2>
 
-<p style="color: #444;">Hi there! I'm a software engineer with a passion for coding and open-source. I have a Bachelor's degree in Computer Science and minors in the same field, which has provided me with a solid foundation in the theoretical and practical aspects of computer fundamentals.</p> 
+## About Me
 
-<p style="color: #444;">I have a year of experience in software engineering, including internships at Solana Labs and RMgX Technologies, where I have contributed to the development of point-of-sale applications and a social media platform, respectively. I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.</p>
+I'm a software engineer with a passion for coding and open-source.
 
-<p style="color: #444;">I am a life-long learner and am constantly seeking to improve my skills. I have taken various online courses and certifications to supplement my education, and I have successfully completed over 350 coding problems and earned multiple 5-star badges on platforms such as Hackerrank.</p>
+I am a final year BE student.
+I have a year of experience in software engineering, including internships at MLH Fellowship and RMgX Technologies.
 
-<p style="color: #444;">I am always open to collaboration and contributing to open-source projects. Feel free to connect with me and let's work on something great together!</p> -->
+I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
+
+I am a life-long learner and am constantly seeking to improve my skills.
+
+I am always open to collaboration and contributing to open-source projects.
+
+Feel free to connect with me and let's work on something great together!
 
 
 <!-- <div align="center">
@@ -28,42 +36,6 @@
     </a>
   </p>
 </div> -->
-<div align="center">
-<p align="center">
-  <b>
-    <span style="color: #0077B5">About</span><span style="color: #E44D26"> Me</span>
-  </b>
-  <br>
-  <span >
-    I'm a software engineer with a passion for coding and open-source.
-  </span>
-  <br>
-  <span>
-    I am a final year BE student.
-  </span>
-  <br>
-  <span >
-    I have a year of experience in software engineering, including internships at MLH Fellowship and RMgX Technologies.
-  </span>
-  <br>
-  <span >
-    I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
-  </span>
-  <br>
-  <span >
-    I am a life-long learner and am constantly seeking to improve my skills.
-  </span>
-  <br>
-  <span >
-    I am always open to collaboration and contributing to open-source projects.
-  </span>
-  <br>
-  <span>
-    Feel free to connect with me and let's work on something great together!
-  </span>
-  <br>
-</p>
-</div>
 
 <br>
 
