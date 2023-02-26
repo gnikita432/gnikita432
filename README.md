@@ -6,18 +6,19 @@
 
 ## About Me
 
-I'm a software engineer with a passion for coding and open-source.
+- 🔭 I'm a software engineer with a passion for coding and open-source.
 
-I am a final year BE student.
+- 🌱 I am a final year BE student.
 I have a year of experience in software engineering, including internships at MLH Fellowship and RMgX Technologies.
 
-I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
+- 💻 I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
 
-I am a life-long learner and am constantly seeking to improve my skills.
+- ⚡ I am a life-long learner and am constantly seeking to improve my skills.
 
-I am always open to collaboration and contributing to open-source projects.
+- 👯 I am always open to collaboration and contributing to open-source projects.
 
-Feel free to connect with me and let's work on something great together!
+- 💬 Feel free to connect with me and let's work on something great together!
+
 
 
 <!-- <div align="center">
