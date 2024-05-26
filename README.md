@@ -6,19 +6,17 @@
 
 ## About Me
 
-- 🔭 I'm a software engineer with a passion for coding and open-source.
+- 🔭 I'm Nikita Gupta, a software engineer with a love for coding and building impactful applications.
 
-- 🌱 I am a final year BE student.
-I have a year of experience in software engineering, including internships at MLH Fellowship and RMgX Technologies.
+- 🌱 I graduated with a BE in CE, with a minor in Computer Science and Engineering. My journey in software development has taken me through roles at RMgX Technologies and MLH Fellowship, where I've worked on projects ranging from shipping platforms to decentralized blockchain applications.
 
-- 💻 I am proficient in full-stack development and have a good understanding of React, Node.js, TypeScript, Next.js, and MERN.
+- 💻 I have experience in full-stack development, working with technologies like React, Angular, Node.js, TypeScript, Next.js, and the MERN stack. I enjoy creating dynamic, responsive, and user-friendly web applications that solve real-world problems.
 
-- ⚡ I am a life-long learner and am constantly seeking to improve my skills.
+- ⚡ I'm a life-long learner, always seeking to improve my skills and stay updated with the latest technologies. I love taking on new challenges and exploring different areas of tech.
 
-- 👯 I am always open to collaboration and contributing to open-source projects.
+- 👯 I'm passionate about collaboration and innovation. I enjoy working with others to create exceptional products and solutions.
 
-- 💬 Feel free to connect with me and let's work on something great together!
-
+- 💬 Let's connect and create something amazing together! Check out my repositories and feel free to reach out for collaboration, ideas, or just to chat about tech.
 
 
 <!-- <div align="center">
