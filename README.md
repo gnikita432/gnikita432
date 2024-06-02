@@ -1,6 +1,6 @@
 <h2 align="center"> Hey👋, I am Nikita!</h2>
                   <h3 align="center">
-  Software Engineer Intern | Open-Source Enthusiast
+  Software Engineer | FrontEnd Developer | Open-Source Enthusiast
 </h3>
 
 
